@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parth4786
 - 👀 I’m interested in Fintech also in Python with it's wide application of Artificial Intelligience and Machine learning
-- 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on projects related to Python or frontend
+- 🌱 I’m currently learning Quantitative finance
+- 💞️ I’m looking to collaborate on projects related to Python 
 - 📫 This is my LinkedIn account https://www.linkedin.com/in/parth-parekh-637a05210/
 
 <!---
