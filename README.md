@@ -271,8 +271,20 @@ I'm always interested in collaborating on:
 
 ---
 
+## 📊 GitHub Activity
+
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/? username=Parth4786&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+<!-- Contribution Snake Animation -->
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Parth4786/Parth4786/output/github-contribution-grid-snake-dark.svg)
+
+<!-- Detailed Stats -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth4786&theme=react-dark&hide_border=true&area=true" width="95%">
+
+<!-- Contribution Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=Parth4786&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="49%">
+
+<!-- Activity Graph -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parth4786&theme=react" width="95%">
 
 </div>
